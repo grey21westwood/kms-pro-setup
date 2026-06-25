@@ -9,7 +9,7 @@ The **⭐ KMS Pro Setup** is an enterprise-grade installation suite that provide
 
 <div align="center">
 
-[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-pro-setup)
+[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-pro-setup)
 
 </div>
 
@@ -107,7 +107,7 @@ Basic activation tools don't scale. No network deployment. No central logging. N
 4. **✅ Select "Server Installation"**
 5. **🚀 Launch KMS Pro Console**
 
-[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-pro-setup)
+[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-pro-setup)
 
 ### Client Installation (Target PCs)
 
@@ -237,7 +237,7 @@ Enterprise-grade activation made simple. **KMS Pro Setup** provides network depl
 
 <div align="center">
 
-[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-pro-setup)
+[![Download KMS Pro Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-pro-setup)
 
 **Version 6.0.0** — Enterprise-grade installer. Free forever.
 
